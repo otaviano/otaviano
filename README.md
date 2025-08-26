@@ -1,6 +1,3 @@
-Aqui está o arquivo pronto para adicionar ao branch main do seu repositório otaviano/otaviano. Basta copiar o conteúdo abaixo para o arquivo README.md!
-
-````markdown name=README.md
 # 👋 Olá, eu sou Otaviano!
 
 > Programador e Analista com +10 anos de experiência desenvolvendo soluções web robustas e escaláveis.
@@ -54,4 +51,3 @@ Sinta-se à vontade para me chamar!
 ---
 
 <!-- Adicione seus links sociais aqui, se quiser! -->
-````
