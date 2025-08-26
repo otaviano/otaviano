@@ -1,3 +1,59 @@
+
+# 👋 Hello, I'm Otaviano!
+
+> Developer and Analyst with over 10 years of experience building robust and scalable web solutions.
+
+---
+
+## 🧑‍💻 About Me
+
+I have more than a decade of experience in web development, focusing on .NET technologies and object-oriented architecture. I have collaborated with prominent companies such as **Buscapé**, **LWSA**, and **Stone**, as well as providing services to internationally recognized organizations.
+
+I'm passionate about applying best practices in software engineering, such as **GOF/GRASP** design patterns, **SOLID** principles, **DDD**, and designing decoupled architectures with a focus on microservices and maintainability.
+
+---
+
+## 🚀 Skills & Technologies
+
+**Core competencies:**
+
+- Object-oriented architecture, SOLID, DDD, Design Patterns, Clean Code
+- Development of Restful APIs, microservices, and AWS cloud solutions
+- .NET (C#, ASP.NET MVC, WebForms), EntityFramework, Fluent API
+- Automated testing (UnitTest, Nunit, Selenium, FxCop)
+- Frontend: HTML5, CSS3, Javascript, Vue
+- Integrations & messaging: RabbitMQ, IOC/DI (Ninject, Nfac)
+- CI/CD: Jenkins, GitHub Actions, DevOps
+
+**Databases:**
+- SQL Server, Postgres, Cassandra, MongoDB, MemCached
+
+**Operating Systems:**
+- Windows, Linux Ubuntu/Debian
+
+**Intermediate knowledge:**
+- ReactJS, Angular, Vue
+
+---
+
+## ⚡ Differentials
+
+- Proven experience in solving complex problems effectively
+- Focus on low coupling and single responsibility
+- Participation in large-scale, internationally impactful projects
+
+---
+
+## 🌐 Get in Touch
+
+Want to talk about technology, projects, or opportunities?  
+Feel free to reach out!
+
+---
+
+<!-- Add your social links here, if you wish! -->
+
+
 # 👋 Olá, eu sou Otaviano!
 
 > Programador e Analista com +10 anos de experiência desenvolvendo soluções web robustas e escaláveis.
