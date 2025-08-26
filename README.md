@@ -1,109 +1,67 @@
+# Otaviano Montes Zibetti
 
-# 👋 Hello, I'm Otaviano!
+**Remote Software Developer**
 
-> Developer and Analyst with over 10 years of experience building robust and scalable web solutions.
-
----
-
-## 🧑‍💻 About Me
-
-I have more than a decade of experience in web development, focusing on .NET technologies and object-oriented architecture. I have collaborated with prominent companies such as **Buscapé**, **LWSA**, and **Stone**, as well as providing services to internationally recognized organizations.
-
-I'm passionate about applying best practices in software engineering, such as **GOF/GRASP** design patterns, **SOLID** principles, **DDD**, and designing decoupled architectures with a focus on microservices and maintainability.
+Curitiba, PR  
+📱 +55 (41) 98857-8294  
+✉️ otavianomontes@gmail.com  
+🌐 [github.com/otaviano](https://github.com/otaviano)  
+🔗 [linkedin.com/in/otaviano-montes-zibett](https://linkedin.com/in/otaviano-montes-zibett)
 
 ---
 
-## 🚀 Skills & Technologies
+## 👨‍💻 Experience
 
-**Core competencies:**
+**LWSA — Tech Lead**  
+_April 2024 - current_  
+Leading technical teams in the banking sector, acting as a point of reference for architecture decisions, code review, and best practices. Responsible for driving technical excellence, mentoring developers, aligning technical solutions with business goals, and fostering a collaborative and high-performance team culture. Applied SOLID, DDD, microservices, and event-driven concepts, with a strong emphasis on automated testing and code quality through rigorous pull request processes.
 
-- Object-oriented architecture, SOLID, DDD, Design Patterns, Clean Code
-- Development of Restful APIs, microservices, and AWS cloud solutions
-- .NET (C#, ASP.NET MVC, WebForms), EntityFramework, Fluent API
-- Automated testing (UnitTest, Nunit, Selenium, FxCop)
-- Frontend: HTML5, CSS3, Javascript, Vue
-- Integrations & messaging: RabbitMQ, IOC/DI (Ninject, Nfac)
-- CI/CD: Jenkins, GitHub Actions, DevOps
+**LWSA — Senior Software Developer**  
+_March 2023 - April 2024_  
+Worked in the banking area. Used SOLID, DDD, microservices, Event-driven concepts, strong testing and pull request culture. 
 
-**Databases:**
-- SQL Server, Postgres, Cassandra, MongoDB, MemCached
+**Linx Commerce — Senior Software Developer**  
+_August 2022 – December 2023_  
+Multi-tenant e-commerce platform. Worked on new microservices and legacy monolith strangulation.
 
-**Operating Systems:**
-- Windows, Linux Ubuntu/Debian
+**Eleva Educação — Senior Software Developer**  
+_May 2021 – April 2022_  
+Education segment. The biggest challenge was migrating a monolith to microservices.
 
-**Intermediate knowledge:**
-- ReactJS, Angular, Vue
-
----
-
-## ⚡ Differentials
-
-- Proven experience in solving complex problems effectively
-- Focus on low coupling and single responsibility
-- Participation in large-scale, internationally impactful projects
+**Stone — Senior Software Developer**  
+_March 2020 – April 2021_  
+Worked in the credit/banking area (loans). Used SOLID, DDD, microservices, Event-driven and Event-Sourcing concepts, strong testing and pull request culture. Implemented "as code" environments with Terraform in AZURE.
 
 ---
 
-## 🌐 Get in Touch
+## 🎓 Education
 
-Want to talk about technology, projects, or opportunities?  
-Feel free to reach out!
+**Technologist in Internet Systems – FAE**  
+Graduated: June 2013
 
----
-
-<!-- Add your social links here, if you wish! -->
-
-
-# 👋 Olá, eu sou Otaviano!
-
-> Programador e Analista com +10 anos de experiência desenvolvendo soluções web robustas e escaláveis.
+**Technical Degree in Web Development – PUCPR**  
+Graduated: June 2007
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 💡 Profile
 
-Tenho mais de uma década de atuação em desenvolvimento web, focando em tecnologias .NET e arquitetura orientada a objetos. Colaborei com empresas de destaque como **Buscapé**, **LWSA** e **Stone**, além de prestar serviços para organizações de porte internacional.
-
-Sou apaixonado por aplicar boas práticas de engenharia de software, como padrões de projeto **GOF/GRASP**, princípios **SOLID**, **DDD** e definição de arquiteturas desacopladas, com foco em microserviços e manutenibilidade.
+Developer since 2007, my strongest experience is in the .NET world, working from .NET 1.1 to .NET Core. I have always been more interested in architecture, design patterns, best practices, and testing than coding itself. I have a questioning profile regarding adopted architectures, always analyzing if, as a team, we are considering all options and their pros and cons. I care deeply about maintainability and coupling levels, not just feature delivery. I foster a strong culture of testing, mainly unit tests, which helps with maintenance and future refactoring.
 
 ---
 
-## 🚀 Skills & Tecnologias
+## 🛠️ Skills
 
-**Principais competências:**
-
-- Arquitetura orientada a objetos, SOLID, DDD, Design Patterns, Clean Code
-- Desenvolvimento de APIs Restful, microserviços e soluções cloud AWS
-- .NET (C#, ASP.NET MVC, WebForms), EntityFramework, Fluent API
-- Testes automatizados (UnitTest, Nunit, Selenium, FxCop)
-- Frontend: HTML5, CSS3, Javascript, Vue
-- Integrações e mensageria: RabbitMQ, IOC/DI (Ninject, Nfac)
-- CI/CD: Jenkins, GitHub Actions, DevOps
-
-**Banco de Dados:**
-- SQL Server, Postgres, Cassandra, MongoDB, MemCached
-
-**Sistemas Operacionais:**
-- Windows, Linux Ubuntu/Debian
-
-**Conhecimento intermediário:**
-- ReactJS, Angular, Vue
+- .Net Core, .Net Framework
+- C#, Postgres, SQL Server
+- Azure, AWS, Terraform, GIT
+- API REST, microservices
+- DDD, Event Driven, Event Sourcing, CQRS, S.O.L.I.D
+- Clean Code, XUnit, Fixture, NSubstitute
 
 ---
 
-## ⚡ Diferenciais
+## 🌍 Languages
 
-- Experiência na solução eficaz de problemas complexos
-- Foco em baixo acoplamento e responsabilidade única
-- Atuação em projetos de grande escala e impacto internacional
-
----
-
-## 🌐 Entre em contato
-
-Quer conversar sobre tecnologia, projetos ou oportunidades?  
-Sinta-se à vontade para me chamar!
-
----
-
-<!-- Adicione seus links sociais aqui, se quiser! -->
+**English – Intermediate**  
+Understands basic texts and some more elaborate sentences, with vocabulary and grammar at an intermediate level. Able to express fluently and spontaneously without needing to search much for words.
