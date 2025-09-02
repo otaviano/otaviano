@@ -1,36 +1,35 @@
 # Otaviano Montes Zibetti
 
-**Remote Software Developer**
-
+**Remote Software Developer**  
 Curitiba, PR  
 📱 +55 (41) 98857-8294  
 ✉️ otavianomontes@gmail.com  
-🌐 [github.com/otaviano](https://github.com/otaviano)  
-🔗 [linkedin.com/in/otaviano-montes-zibett](https://linkedin.com/in/otaviano-montes-zibett)
+🌐 [GitHub](https://github.com/otaviano)  
+🔗 [LinkedIn](https://linkedin.com/in/otaviano-montes-zibett)
 
 ---
 
 ## 👨‍💻 Experience
 
-**LWSA — Tech Lead**  
-_April 2024 - current_  
-Leading technical teams in the banking sector, acting as a point of reference for architecture decisions, code review, and best practices. Responsible for driving technical excellence, mentoring developers, aligning technical solutions with business goals, and fostering a collaborative and high-performance team culture. Applied SOLID, DDD, microservices, and event-driven concepts, with a strong emphasis on automated testing and code quality through rigorous pull request processes.
+### LWSA — Tech Lead  
+_April 2024 – Present_  
+Lead technical teams in the banking sector, serving as a reference for architecture decisions, code reviews, and best practices. Responsible for driving technical excellence, mentoring developers, and fostering a high-quality engineering environment.
 
-**LWSA — Senior Software Developer**  
-_March 2023 - April 2024_  
-Worked in the banking area. Used SOLID, DDD, microservices, Event-driven concepts, strong testing and pull request culture. 
+### LWSA — Senior Software Developer  
+_March 2023 – April 2024_  
+Worked in the banking domain, applying SOLID principles, DDD, microservices, and event-driven architectures. Maintained a strong culture of testing and collaborative code review.
 
-**Linx Commerce — Senior Software Developer**  
+### Linx Commerce — Senior Software Developer  
 _August 2022 – December 2023_  
-Multi-tenant e-commerce platform. Worked on new microservices and legacy monolith strangulation.
+Developed a multi-tenant e-commerce platform. Contributed to new microservices and the gradual migration of legacy monolith systems.
 
-**Eleva Educação — Senior Software Developer**  
+### Eleva Educação — Senior Software Developer  
 _May 2021 – April 2022_  
-Education segment. The biggest challenge was migrating a monolith to microservices.
+Focused on migrating monolithic applications to microservices in the education sector.
 
-**Stone — Senior Software Developer**  
+### Stone — Senior Software Developer  
 _March 2020 – April 2021_  
-Worked in the credit/banking area (loans). Used SOLID, DDD, microservices, Event-driven and Event-Sourcing concepts, strong testing and pull request culture. Implemented "as code" environments with Terraform in AZURE.
+Engineered solutions for credit and banking (loans), utilizing SOLID, DDD, microservices, and event-sourcing. Pioneered infrastructure as code and enhanced system reliability through robust testing.
 
 ---
 
@@ -46,17 +45,17 @@ Graduated: June 2007
 
 ## 💡 Profile
 
-Developer since 2007, my strongest experience is in the .NET world, working from .NET 1.1 to .NET Core. I have always been more interested in architecture, design patterns, best practices, and testing than coding itself. I have a questioning profile regarding adopted architectures, always analyzing if, as a team, we are considering all options and their pros and cons. I care deeply about maintainability and coupling levels, not just feature delivery. I foster a strong culture of testing, mainly unit tests, which helps with maintenance and future refactoring.
+Developer since 2007 with deep expertise in .NET technologies, spanning from .NET 1.1 to .NET Core. Passionate about architecture, design patterns, best practices, and testing. Skilled in leading teams, mentoring, and driving high standards in software development.
 
 ---
 
 ## 🛠️ Skills
 
-- .Net Core, .Net Framework
-- C#, Postgres, SQL Server
-- Azure, AWS, Terraform, GIT
-- API REST, microservices
-- DDD, Event Driven, Event Sourcing, CQRS, S.O.L.I.D
+- .NET Core, .NET Framework
+- C#, PostgreSQL, SQL Server
+- Azure, AWS, Terraform, Git
+- REST APIs, Microservices
+- DDD, Event-Driven Design, Event Sourcing, CQRS, SOLID
 - Clean Code, XUnit, Fixture, NSubstitute
 
 ---
@@ -64,4 +63,4 @@ Developer since 2007, my strongest experience is in the .NET world, working from
 ## 🌍 Languages
 
 **English – Intermediate**  
-Understands basic texts and some more elaborate sentences, with vocabulary and grammar at an intermediate level. Able to express fluently and spontaneously without needing to search much for words.
+Comfortable with both basic and moderately complex texts, possessing intermediate vocabulary and grammar. Able to communicate fluently and spontaneously, with minimal need for word searching.
