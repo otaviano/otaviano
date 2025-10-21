@@ -9,14 +9,16 @@ Curitiba, PR
 
 ---
 
-## 👨‍💻 Experience
+## 🧑‍💻 Professional Experience
 
-| Empresa | Cargo | Período | Foco Principal & Tecnologias |
+My career combines technical leadership with high-level execution in mission-critical environments.
+
+| Company | Role | Period | Main Focus & Technologies |
 | :--- | :--- | :--- | :--- |
-| **LWSA** | **Tech Lead** | Abr 2024 – Presente | Liderança técnica de equipes e referência em arquitetura. Fomento de excelência em engenharia no setor bancário. |
-| **LWSA** | Senior Software Developer | Mar 2023 – Abr 2024 | Aplicação prática de **SOLID, DDD, Microservices** e **Arquiteturas Event-Driven** no domínio bancário. |
-| **Linx Commerce** | Senior Software Developer | Ago 2022 – Dez 2023 | Desenvolvimento de plataforma e-commerce multi-tenant. Contribuição para **microsserviços e migração gradual** de legados. |
-| **Stone** | Senior Software Developer | Mar 2020 – Abr 2021 | Soluções em crédito e empréstimos. Implementação de **Event-Sourcing** e **Infraestrutura como Código (IaC)**. |
+| **LWSA** | **Tech Lead** | Apr 2024 – Present | Technical leadership, architecture reference, and driving engineering excellence in the banking sector. |
+| **LWSA** | Senior Software Developer | Mar 2023 – Apr 2024 | Practical application of **SOLID, DDD, Microservices**, and **Event-Driven Architectures** within the banking domain. |
+| **Linx Commerce** | Senior Software Developer | Aug 2022 – Dec 2023 | Development of a multi-tenant e-commerce platform. Contributed to **new microservices and gradual migration** of legacy systems. |
+| **Stone** | Senior Software Developer | Mar 2020 – Apr 2021 | Engineering solutions for credit and lending. Implemented **Event-Sourcing** and **Infrastructure as Code (IaC)**. |
 
 ---
 
