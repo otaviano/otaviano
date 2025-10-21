@@ -11,25 +11,12 @@ Curitiba, PR
 
 ## 👨‍💻 Experience
 
-### LWSA — Tech Lead  
-_April 2024 – Present_  
-Lead technical teams in the banking sector, serving as a reference for architecture decisions, code reviews, and best practices. Responsible for driving technical excellence, mentoring developers, and fostering a high-quality engineering environment.
-
-### LWSA — Senior Software Developer  
-_March 2023 – April 2024_  
-Worked in the banking domain, applying SOLID principles, DDD, microservices, and event-driven architectures. Maintained a strong culture of testing and collaborative code review.
-
-### Linx Commerce — Senior Software Developer  
-_August 2022 – December 2023_  
-Developed a multi-tenant e-commerce platform. Contributed to new microservices and the gradual migration of legacy monolith systems.
-
-### Eleva Educação — Senior Software Developer  
-_May 2021 – April 2022_  
-Focused on migrating monolithic applications to microservices in the education sector.
-
-### Stone — Senior Software Developer  
-_March 2020 – April 2021_  
-Engineered solutions for credit and banking (loans), utilizing SOLID, DDD, microservices, and event-sourcing. Pioneered infrastructure as code and enhanced system reliability through robust testing.
+| Empresa | Cargo | Período | Foco Principal & Tecnologias |
+| :--- | :--- | :--- | :--- |
+| **LWSA** | **Tech Lead** | Abr 2024 – Presente | Liderança técnica de equipes e referência em arquitetura. Fomento de excelência em engenharia no setor bancário. |
+| **LWSA** | Senior Software Developer | Mar 2023 – Abr 2024 | Aplicação prática de **SOLID, DDD, Microservices** e **Arquiteturas Event-Driven** no domínio bancário. |
+| **Linx Commerce** | Senior Software Developer | Ago 2022 – Dez 2023 | Desenvolvimento de plataforma e-commerce multi-tenant. Contribuição para **microsserviços e migração gradual** de legados. |
+| **Stone** | Senior Software Developer | Mar 2020 – Abr 2021 | Soluções em crédito e empréstimos. Implementação de **Event-Sourcing** e **Infraestrutura como Código (IaC)**. |
 
 ---
 
