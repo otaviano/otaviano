@@ -38,14 +38,15 @@ Developer since 2007 with deep expertise in .NET technologies, spanning from .NE
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Professional Technical Skills
 
-- .NET Core, .NET Framework
-- C#, PostgreSQL, SQL Server
-- Azure, AWS, Terraform, Git
-- REST APIs, Microservices
-- DDD, Event-Driven Design, Event Sourcing, CQRS, SOLID
-- Clean Code, XUnit, Fixture, NSubstitute
+- Frontend & Mobile: React, Angular, Vue.js, Flutter
+- Backend (.NET): C#, .NET Core, .NET Framework, REST APIs, Microservices
+- Backend (Node.js): Node.js, Express, NestJS, NPM/Yarn
+- Backend (Python): FastAPI (async), Uvicorn, Motor (async MongoDB), Pydantic, pytest
+- Databases: PostgreSQL, SQL Server, MongoDB
+- Cloud & DevOps: Azure, AWS, Terraform, Git, Docker & Docker Compose
+- Architecture & Patterns: DDD, Event-Driven Design, Event Sourcing, CQRS, SOLID, Clean Architecture, Dependency Injection
 
 ---
 
