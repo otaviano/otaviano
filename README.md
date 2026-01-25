@@ -2,7 +2,6 @@
 
 **Remote Software Developer**  
 Curitiba, PR  
-📱 +55 (41) 98857-8294  
 ✉️ otavianomontes@gmail.com  
 🌐 [GitHub](https://github.com/otaviano)  
 🔗 [LinkedIn](https://linkedin.com/in/otaviano-montes-zibett)
