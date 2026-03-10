@@ -23,6 +23,10 @@ My career combines technical leadership with high-level execution in mission-cri
 
 ## 🎓 Education
 
+**Graduate Specialization - AI FOR DEVS - FIAP**  
+Graduated: Apr 2027  
+_Specialized graduate program focused on practical application of Artificial Intelligence, covering fundamental Machine Learning and Computer Vision algorithms to the latest Generative AI (GenAI) and LLMs technologies. Technical training for design and evaluation of classification and clustering models, as well as development of scalable solutions using cloud services such as AWS and Azure._
+
 **Technologist in Internet Systems – FAE**  
 Graduated: June 2013
 
