@@ -1,59 +1,101 @@
-# Otaviano Montes Zibetti
+# 👋 Otaviano Montes Zibetti
 
-**Remote Software Developer**  
-Curitiba, PR  
-✉️ otavianomontes@gmail.com  
-🌐 [GitHub](https://github.com/otaviano)  
-🔗 [LinkedIn](https://linkedin.com/in/otaviano-montes-zibett)
+<div align="center">
+
+**Remote Software Developer | Tech Lead | Banking & FinTech Specialist**
+
+📍 Curitiba, PR • 💼 [LinkedIn](https://linkedin.com/in/otaviano-montes-zibett) • 🐙 [GitHub](https://github.com/otaviano) • ✉️ otavianomontes@gmail.com
+
+</div>
 
 ---
 
-## 🧑‍💻 Professional Experience
+## 🎯 About Me
 
-My career combines technical leadership with high-level execution in mission-critical environments.
+Senior software developer with **18+ years of experience** building scalable, mission-critical systems. Passionate about clean architecture, design patterns, and technical excellence. Proven track record of leading teams and driving engineering excellence in the banking and fintech sectors.
 
-| Company | Role | Period | Main Focus & Technologies |
-| :--- | :--- | :--- | :--- |
-| **LWSA** | **Tech Lead** | Apr 2024 – Present | Technical leadership, architecture reference, and driving engineering excellence in the banking sector. |
-| **LWSA** | Senior Software Developer | Mar 2023 – Apr 2024 | Practical application of **SOLID, DDD, Microservices**, and **Event-Driven Architectures** within the banking domain. |
-| **Linx Commerce** | Senior Software Developer | Aug 2022 – Dec 2023 | Development of a multi-tenant e-commerce platform. Contributed to **new microservices and gradual migration** of legacy systems. |
-| **Stone** | Senior Software Developer | Mar 2020 – Apr 2021 | Engineering solutions for credit and lending. Implemented **Event-Sourcing** and **Infrastructure as Code (IaC)**. |
+---
+
+## 💼 Professional Experience
+
+### **Tech Lead** @ LWSA  
+*Apr 2024 – Present*  
+🎯 Technical leadership, architecture design, and engineering excellence in banking sector  
+- Driving architectural decisions and best practices  
+- Mentoring and leading development teams  
+- Building foundations for scalable microservices
+
+### **Senior Software Developer** @ LWSA  
+*Mar 2023 – Apr 2024*  
+Architected solutions applying SOLID, DDD, and Event-Driven patterns in banking domain
+
+### **Senior Software Developer** @ Linx Commerce  
+*Aug 2022 – Dec 2023*  
+Led development of multi-tenant e-commerce platform with microservices migration strategy
+
+### **Senior Software Developer** @ Stone  
+*Mar 2020 – Apr 2021*  
+Engineered credit and lending solutions using Event-Sourcing and Infrastructure as Code
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="50%">
+
+**Frontend & Mobile**
+- React, Angular, Vue.js
+- Flutter
+
+**Backend (.NET)**
+- C# / .NET Core / .NET Framework
+- REST APIs, Microservices
+
+</td>
+<td width="50%">
+
+**Backend (Node.js & Python)**
+- Node.js, Express, NestJS
+- FastAPI, Uvicorn, Pydantic
+
+**Data & Infrastructure**
+- PostgreSQL, SQL Server, MongoDB
+- Docker, Azure, AWS, Terraform
+
+</td>
+</tr>
+</table>
+
+**Architecture & Patterns:** DDD • Event-Driven Design • Event Sourcing • CQRS • SOLID • Clean Architecture • Dependency Injection
 
 ---
 
 ## 🎓 Education
 
-**Graduate Specialization - AI FOR DEVS - FIAP**  
-Graduated: April 2027  
-_Specialized graduate program focused on practical application of Artificial Intelligence, covering fundamental Machine Learning and Computer Vision algorithms to the latest Generative AI (GenAI) and LLMs technologies. Technical training for design and evaluation of classification and clustering models, as well as development of scalable solutions using cloud services such as AWS and Azure._
-
-**Technologist in Internet Systems – FAE**  
-Graduated: June 2013
-
-**Technical Degree in Web Development – PUCPR**  
-Graduated: June 2007
-
----
-
-## 💡 Profile
-
-Developer since 2007 with deep expertise in .NET technologies, spanning from .NET 1.1 to .NET Core. Passionate about architecture, design patterns, best practices, and testing. Skilled in leading teams, mentoring, and driving high standards in software development.
-
----
-
-## 🛠️ Professional Technical Skills
-
-- Frontend & Mobile: React, Angular, Vue.js, Flutter
-- Backend (.NET): C#, .NET Core, .NET Framework, REST APIs, Microservices
-- Backend (Node.js): Node.js, Express, NestJS, NPM/Yarn
-- Backend (Python): FastAPI (async), Uvicorn, Motor (async MongoDB), Pydantic, pytest
-- Databases: PostgreSQL, SQL Server, MongoDB
-- Cloud & DevOps: Azure, AWS, Terraform, Git, Docker & Docker Compose
-- Architecture & Patterns: DDD, Event-Driven Design, Event Sourcing, CQRS, SOLID, Clean Architecture, Dependency Injection
+| Degree | Institution | Graduation |
+|--------|-------------|-----------|
+| **Graduate Specialization - AI FOR DEVS** | FIAP | April 2027 |
+| **Technologist in Internet Systems** | FAE | June 2013 |
+| **Technical Degree in Web Development** | PUCPR | June 2007 |
 
 ---
 
 ## 🌍 Languages
 
-**English – Intermediate**  
-Comfortable with both basic and moderately complex texts, possessing intermediate vocabulary and grammar. Able to communicate fluently and spontaneously, with minimal need for word searching.
+**English** – Intermediate  
+Comfortable with both basic and moderately complex texts. Able to communicate fluently with minimal need for word searching.
+
+**Spanish** – intermedio 
+Poseo un dominio intermedio de la lengua española. Mi nivel de competencia me permite describir experiencias, acontecimientos, deseos y aspiraciones, así como justificar brevemente mis opiniones. Tengo un buen control de las estructuras gramaticales esenciales y sigo ampliando mi vocabulario para alcanzar una mayor precisión técnica y cultural.
+
+---
+
+<div align="center">
+
+### 💡 Always learning, always shipping.
+
+[📧 Get in Touch](mailto:otavianomontes@gmail.com)
+
+</div>
