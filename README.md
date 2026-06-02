@@ -29,7 +29,9 @@ Acredito que engenharia de software de alto impacto vai além do código: está 
 
 ▸ Implementei code review automatizado em pipeline via **Cursor/Claude** e defini padrões de rules/skills arquiteturais para integridade e validação das aplicações com IA — elevando a consistência e qualidade das entregas.
 
-▸ Realizei **3 apresentações técnicas** sobre padrões de desenvolvimento com IA para **~20 times em 3 verticais** da Vindi — disseminando práticas de engenharia e gerando impacto organizacional além do meu time direto.
+▸ Realizei **apresentações técnicas** sobre padrões de desenvolvimento com IA para **~20 times em 3 verticais** da Vindi — disseminando práticas de engenharia e gerando impacto organizacional além do meu time direto.
+
+▸ Estruturei observabilidade do time com **Sentry e New Relic** — criando dashboards de monitoramento, alertas via Slack e métricas de throughput, latência de requisições, degradação de banco e inconsistências em integrações de API e webhook.
 
 ▸ Desenvolvi mapeamento completo do ecossistema de pagamentos para onboarding de novos engenheiros e liderei melhorias no processo de contratação técnica do time.
 
@@ -53,6 +55,8 @@ Acredito que engenharia de software de alto impacto vai além do código: está 
 
 ▸ Propus e conduzi decisões arquiteturais aceitas pelo Tech Lead do time, contribuindo para a definição do modelo de migração e dos padrões de desenvolvimento dos novos serviços.
 
+▸ Monitorei a saúde da plataforma com **New Relic e Datadog** — configurando dashboards de throughput, alertas de degradação e rastreamento de inconsistências em integrações de API e webhook em ambiente multi-tenant.
+
 ---
 
 ### Senior Software Developer @ Eleva Educação
@@ -66,6 +70,8 @@ Acredito que engenharia de software de alto impacto vai além do código: está 
 
 ▸ Contribuí para melhorias em pipelines de CI/CD e ajustes no API Gateway, aumentando a estabilidade e velocidade das entregas em um time enxuto de 4 pessoas.
 
+▸ Implementei observabilidade com **Grafana, Elastic e New Relic** — criando dashboards de monitoramento, alertas de degradação de banco e detecção de inconsistências em integrações críticas do sistema educacional.
+
 ---
 
 ### Senior Software Developer @ Stone
@@ -78,6 +84,8 @@ Acredito que engenharia de software de alto impacto vai além do código: está 
 ▸ Implementei ambientes **Infrastructure as Code com Terraform na Azure**, padronizando o provisionamento dos microserviços da vertical e reduzindo o tempo e risco de setup de novos ambientes.
 
 ▸ Participei ativamente de definições técnicas entre squads da vertical de crédito, contribuindo para decisões de arquitetura que impactaram o padrão de integração entre os serviços da área.
+
+▸ Configurei observabilidade com **Splunk e New Relic** — criando dashboards de throughput, alertas de latência e monitoramento de saúde dos serviços de crédito em ambiente bancário de alta criticidade.
 
 ---
 
@@ -111,6 +119,14 @@ Acredito que engenharia de software de alto impacto vai além do código: está 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
 ![Stryker](https://img.shields.io/badge/Mutation%20Testing%20Stryker-E74C3C?style=flat)
+
+### Observabilidade
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat&logo=newrelic&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 
 ---
 
