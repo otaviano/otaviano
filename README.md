@@ -1,6 +1,6 @@
 # 👋 Otaviano Montes Zibetti
 
-**Tech Lead | Staff Engineer (em transição) | Especialista .NET | Modernização de Sistemas Legados**
+**Tech Lead | Staff Engineer | Especialista .NET | Modernização de Sistemas Legados**
 
 📍 Curitiba, PR — Remoto &nbsp;•&nbsp; 💼 [LinkedIn](https://linkedin.com/in/otaviano-montes-zibetti) &nbsp;•&nbsp; 🌐 [otavianozibetti.tech](https://otavianozibetti.tech) &nbsp;•&nbsp; ✉️ otavianomontes@gmail.com
 
